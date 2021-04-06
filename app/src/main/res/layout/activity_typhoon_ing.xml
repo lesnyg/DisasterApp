@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    tools:context=".TyphoonIngActivity">
+
+    <include
+        android:id="@+id/top"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/activity_basic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f29661"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:text="태풍(Typhoon)>태풍 특보 중"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+        android:textColor="#000000"
+        android:layout_marginBottom="1dp"
+        android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:text="건물의 출입문,창문은 닫아서 파손되지 않도록 하고,\n창문이나 유리문에서 되도록 떨어져 있도록 합니다."
+            android:textColor="#000000"
+            android:layout_marginBottom="1dp"
+            android:textSize="16sp" />
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

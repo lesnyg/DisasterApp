@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_1"
+        android:title="태풍 특보 중"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_2"
+        android:title="내가 원하는 페이지 이름"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_3"
+        android:title="내가 원하는 페이지 이름"
+        app:showAsAction="never"/>
+</menu>
